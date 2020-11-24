@@ -13,3 +13,7 @@ Data preprocessing:
 3. data acceptable criteria:Len(data) between 1 and 50. because avg(len(data) is 50.
 4. extract useful information from original json file: parent_id, body, cretaed_utc, score, id, subreddit..
 5. 
+
+
+Special Thanks:
+I learnt everything about chatbot from this YouTube channel: https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ
