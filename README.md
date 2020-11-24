@@ -16,4 +16,4 @@ Data preprocessing:
 
 
 Special Thanks:
-I learnt everything about chatbot from this YouTube channel: https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ
+I learnt everything about chatbot from this awesome YouTube channel: https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ
