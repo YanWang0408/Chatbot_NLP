@@ -1,8 +1,8 @@
 # Chatbot_NLP
 
 Deep learning, NLTK
-## Data source
-http://files.pushshift.io/reddit/comments/
+
+Data source: http://files.pushshift.io/reddit/comments/
 
 Data format: jason file
 
