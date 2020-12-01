@@ -15,5 +15,5 @@ Data preprocessing:
 5. 
 
 
-Special Thanks:
-I learnt everything about chatbot from this awesome YouTube channel: https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ
+Inspired by:
+https://chatbotsmagazine.com/contextual-chat-bots-with-tensorflow-4391749d0077
